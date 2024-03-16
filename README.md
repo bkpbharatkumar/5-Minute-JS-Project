@@ -24,9 +24,6 @@ To use this project:
 
 ## Preview
 
-![Preview](https://bkpbharatkumar.github.io/5-Minute-JS-Project/)
+- [Preview](https://bkpbharatkumar.github.io/5-Minute-JS-Project/)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 # 5-Minute-JS-Project
